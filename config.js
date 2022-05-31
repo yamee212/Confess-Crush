@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'yay yay',
     mess: 'di ngu day',
     messDesc: 'ngu ngon nheh',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun. <3',
     messLink: 'https://www.facebook.com/iino1911' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
